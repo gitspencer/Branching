@@ -16,6 +16,7 @@
 * 'git branch -m newName' - rename current local branch
 * 'git branch branchName' - create local branch 'branchName'
 * 'git checkout branchName' - move to local branch 'branchName'
+* 'git checkout -b branchName' - create and move to local branch 'branchName'
 
 ## Remote Commands
 * 'git remote add remName remoteUrl' - connect local repo to remote repository 'remoteUrl' with shortcut 'remName' for the remote URL
