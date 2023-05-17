@@ -13,3 +13,5 @@
 ## Branch Commands
 * 'git branch' - list local branches
 * 'git branch -m newName' - rename current local branch
+* 'git branch branchName' - create local branch 'branchName'
+* 'git checkout branchName' - move to local branch 'branchName'
